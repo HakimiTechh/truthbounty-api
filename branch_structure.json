@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-611-prewave-be-015-add-canonical-authenticated"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-611-prewave-be-015-add-canonical-authenticated": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-611-prewave-be-015-add-canonical-authenticated"
+  ]
+}
